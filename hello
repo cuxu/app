@@ -60,8 +60,8 @@
       "打开方式": "内置"
     },
     {
-      "标题": "飞机频道群",
-      "副标题": "暂无",
+      "标题": "飞机频道",
+      "副标题": "点击加入",
       "链接": "https://t.me/poj168",
       "打开方式": "内置"
     }
@@ -146,15 +146,15 @@
   ],
   "首页列表": [
     {
-      "标题": "测试1",
-      "图片": "https://wx.y.gtimg.cn/music/photo_new/T053XD00001YLflG1vEgtG.jpg",
-      "链接": "https://sharechain.qq.com/e80cb86d8727ba31b6cd011d3e726d4a",
+      "标题": "公告声明",
+      "图片": "https://pic.imgdb.cn/item/65f559f09f345e8d036d755d.jpg",
+      "链接": "https://c.lsjht.top/index.php/3.html",
       "打开方式": "内置"
     },
     {
       "标题": "测试2",
       "图片": "https://wx.y.gtimg.cn/music/photo_new/T053XD00003gIul205vR67.jpg",
-      "链接": "https://sharechain.qq.com/e80cb86d8727ba31b6cd011d3e726d4a",
+      "链接": "https://c.lsjht.top/index.php/3.html",
       "打开方式": "内置"
     },
     {
