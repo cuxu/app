@@ -305,7 +305,7 @@
     }
   ],
   "影视搜索": [
-    "测试|https://gf.btjson.xyz/api.php/provide/vod/?ac=list",
+    "小新|https://cj.ffzyapi.com/api.php/provide/vod/",
     "非凡|https://cj.ffzyapi.com/api.php/provide/vod/",
     "暴风|https://bfzyapi.com/api.php/provide/vod/",
     "魔都|https://moduzy.net/api.php/provide/vod/",
